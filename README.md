@@ -1,1 +1,1 @@
-# week-2-programming
+# programming fundamentals
